@@ -2,3 +2,6 @@ sceneSetups:
 - path: Assets/petitCubeTropMignon.unity
   isLoaded: 1
   isActive: 1
+- path: Assets/Scenes/RobotLab.unity
+  isLoaded: 1
+  isActive: 0
